@@ -1,3 +1,9 @@
 ﻿.display {
     padding-left: 20px;
 }
+
+p{
+    padding:0;
+    margin-left:5px;
+    border:0;
+}
